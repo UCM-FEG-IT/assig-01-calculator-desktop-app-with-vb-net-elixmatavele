@@ -1,0 +1,12 @@
+C:\Users\dell\source\repos\Calculadura\Calculadura\obj\Debug\Calculadura.vbprojAssemblyReference.cache
+C:\Users\dell\source\repos\Calculadura\Calculadura\obj\Debug\Calculadura.Form1.resources
+C:\Users\dell\source\repos\Calculadura\Calculadura\obj\Debug\Calculadura.Resources.resources
+C:\Users\dell\source\repos\Calculadura\Calculadura\obj\Debug\Calculadura.vbproj.GenerateResource.cache
+C:\Users\dell\source\repos\Calculadura\Calculadura\obj\Debug\Calculadura.vbproj.CoreCompileInputs.cache
+C:\Users\dell\source\repos\Calculadura\Calculadura\bin\Debug\Calculadura.exe.config
+C:\Users\dell\source\repos\Calculadura\Calculadura\bin\Debug\Calculadura.exe
+C:\Users\dell\source\repos\Calculadura\Calculadura\bin\Debug\Calculadura.pdb
+C:\Users\dell\source\repos\Calculadura\Calculadura\bin\Debug\Calculadura.xml
+C:\Users\dell\source\repos\Calculadura\Calculadura\obj\Debug\Calculadura.exe
+C:\Users\dell\source\repos\Calculadura\Calculadura\obj\Debug\Calculadura.xml
+C:\Users\dell\source\repos\Calculadura\Calculadura\obj\Debug\Calculadura.pdb
